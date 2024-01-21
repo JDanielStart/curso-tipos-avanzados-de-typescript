@@ -6,7 +6,7 @@ prices.push("1");
 let user: [string, number];
 user = ["nicobytes", 15];
 
-//Deconstrucción
+//Deconstrucción+
 const [username, age] = user;
 console.log(username);
 console.log(age);
